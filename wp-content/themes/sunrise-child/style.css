@@ -19,7 +19,7 @@ Variables
 	--secondary-color: #FCF2B5;
 	--accent-color: #ffffff;
 	--content-text: #02224f;
-	--link-color: #543D08;
+	--link-color: #45579c;
 	--link-hover-color: #584C04;
 	--theme-white: #fff;
 	--theme-black: #000;
@@ -343,7 +343,7 @@ sidebar Area
 
 #mainSidebar a:hover,
 .imagelist li a:hover span {
-	color: var(--link-hover-color);
+	color: var(--secondary-color);
 }
 
 /*================================================================================================================
